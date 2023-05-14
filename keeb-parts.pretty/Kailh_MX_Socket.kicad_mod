@@ -32,9 +32,9 @@
   (pad "" np_thru_hole circle (at -5.08 0) (size 1.7 1.7) (drill 1.7) (layers *.Cu *.Mask) (tstamp ffcbff8e-ab26-41db-bf1a-b4c132bdb8a6))
   (pad "1" smd rect (at 7.36 -2.54) (size 2.55 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp b84bbe17-09c8-4aea-bd95-af34a96a069c))
   (pad "2" smd rect (at -6.09 -5.08) (size 2.55 2.5) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 32e6d5f9-b73a-409b-a341-b80aa666fbb4))
-  (model "C:/Users/doni/Documents/Keyboard-Stuff/Atomics/keyboard_parts.pretty/3D/PG151101S11.step"
-    (offset (xyz -4.65 6.8 1.8))
+  (model "${BEKOS_KEEB_PARTS_3D}/Kailh_Socket.step"
+    (offset (xyz -0 0.25 -0.1))
     (scale (xyz 1 1 1))
-    (rotate (xyz 180 0 0))
+    (rotate (xyz 0 0 0))
   )
 )
